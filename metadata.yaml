@@ -5,6 +5,9 @@ contributor:
     agent_name: Bowman, Bill
     gutenberg_agent_id: '56434'
     url: http://www.gutenberg.org/2009/agents/56434
+covers:
+- cover_type: archival
+  image_path: 71868-h/images/cover.jpg
 creator:
   author:
     agent_name: Budrys, Algis
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25613
     wikipedia: https://en.wikipedia.org/wiki/Algis_Budrys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71868#Never-meet-again
 gutenberg_issued: '2023-10-13'
 identifiers:
   gutenberg: '71868'
